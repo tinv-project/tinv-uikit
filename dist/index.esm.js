@@ -2147,14 +2147,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/The_Industry_Network_Official",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/TheIndstryNtwrk",
     },
 ];
 var MENU_HEIGHT = 64;
