@@ -2116,7 +2116,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/The_Industry_Network_Official",
             },
             // {
             //   label: "Bahasa Indonesia",
