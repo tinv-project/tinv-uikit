@@ -35,7 +35,10 @@ it("renders correctly", () => {
         langs={langs}
         setLang={noop}
         currentLang="EN"
+        beePriceUsd={50}
         cakePriceUsd={0.23158668932877668}
+        beePriceLink={""}
+        priceLink={""}
         links={menuConfig}
       >
         body
